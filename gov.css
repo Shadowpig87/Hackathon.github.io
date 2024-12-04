@@ -1,0 +1,22 @@
+body{background-color: rgb(70, 135, 175);}
+.h2{font-family: monospace;}
+
+.span { display: inline-block; }
+.h22{font-family: monospace; }
+.container {
+    display: inline-block; /* Ensures the container takes up only the space needed */
+  }
+  
+  .container h2, 
+  .container button { 
+    display: inline-block; /* Makes both the text and button inline-block */
+  }
+
+  .button{height: 50px; width: 70px;
+    position: fixed;
+    bottom: 0;
+    left: 1297px;}
+    .button2{height: 50px; width: 70px;
+        position: fixed;
+        bottom: 0;
+        left: 0;}

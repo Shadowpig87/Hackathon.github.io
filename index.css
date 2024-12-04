@@ -1,0 +1,22 @@
+body{background-color: rgb(70, 135, 175)
+    ;}
+    #myp1{background-color: seagreen;
+    font-family: monospace;
+margin-right: 1000px;
+font-size: 50px;
+font-weight: 100px;
+
+border: whitesmoke;}
+.h2{font-family: monospace;}
+
+#button{height: 50px;width: 70px;}
+.button2{position: fixed;
+bottom: 0;
+left: 0;
+height:50px;
+width:70px;}
+.button3{position: fixed;
+    bottom: 0;
+    right: 0;
+    height:50px;
+    width:70px;}

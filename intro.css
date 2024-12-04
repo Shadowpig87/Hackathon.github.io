@@ -1,0 +1,6 @@
+body{background-color:  rgb(70, 135, 175);}
+.h2{font-family: monospace;}
+.button{height: 50px; width: 70px;
+    position: fixed;
+    bottom: 0;
+    right: 0;}
